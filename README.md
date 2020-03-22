@@ -14,7 +14,7 @@
 <td width="600px" height="200px" bgcolor="#f1f1f2" valing="top">
 
    <table border="1">
-   <td width="250px" height="250px"><img src="D:\Picture\Wallpaper\Snapshot_2017-8-18_22-45-13.jpg" width="250px" height="250px"></td>
+   <td width="250px" height="250px"><img src="Snapshot_2017-8-18_22-45-13.jpg" width="250px" height="250px"></td>
    
 <tr align="center" bgcolor="#66a5ad">
        <td width="200px">Software</td>
@@ -51,7 +51,7 @@
 
  </table>
 <td width="300px" height="100px">
-<video loop="loop" height="460px width="300px" src="D:\Picture\16 Februari 2019 at 20.26 2019-02-16 20-29-00.mp4" controls>
+<video loop="loop" height="460px width="300px" src="16 Februari 2019 at 20.26 2019-02-16 20-29-00.mp4" controls>
 </td>
    
 
